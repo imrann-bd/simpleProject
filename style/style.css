@@ -1,3 +1,7 @@
 p {
     background-color: red;
+    padding: 20px;
+}
+.blog-1 {
+    background-color: tomato;
 }
